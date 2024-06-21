@@ -16,7 +16,7 @@ class Usuarios extends StatefulWidget {
 
 final Map<String, String> funcoes = {
   'separador': 'Separador',
-  'administrador': 'Administrador',
+  'gerente': 'Gerente',
 };
 
 class _Usuarios extends State<Usuarios> {
